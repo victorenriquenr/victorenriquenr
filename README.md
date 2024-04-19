@@ -6,9 +6,6 @@
 </p>
 
 <br>
-
-
-
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -64,10 +61,7 @@
 </p>
 
 <br>
-<br>
-
 -----
-
 <br>
 
 
@@ -80,12 +74,12 @@ Welcome to my gig! I offer a range of services to automate processes and increas
 
 I provide:
 
-Data preparation: cleaning, merging, grouping, and handling missing data
-Exploratory Data Analysis: Attribute Comparison, Graphs, and Feature Selection
-Data segregation: splitting data for training and testing
-ML Models: Linear Regression, Logistic Regression, Decision Trees, SVM, Naive Bayes, kNN, K-Means, Random Forest.
-Model Evaluation: RMSE, Accuracy, Confusion Matrix, Log Loss, AUC, F-Measure.
-I work with tools like Numpy, Pandas, Matplotlib, Scikit-Learn, Scipy, PySPark, Seaborn. Proficient in Python.
+- Data preparation: cleaning, merging, grouping, and handling missing data
+- Exploratory Data Analysis: Attribute Comparison, Graphs, and Feature Selection
+- Data segregation: splitting data for training and testing
+- ML Models: Linear Regression, Logistic Regression, Decision Trees, SVM, Naive Bayes, kNN, K-Means, Random Forest.
+- Model Evaluation: RMSE, Accuracy, Confusion Matrix, Log Loss, AUC, F-Measure.
+- I work with tools like Numpy, Pandas, Matplotlib, Scikit-Learn, Scipy, PySPark, Seaborn. Proficient in Python.
 
 Let's discuss how I can help you achieve your goals. Contact me today!
 
@@ -134,13 +128,8 @@ Kind regards
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
 
 <div align='center'>
 
 </div>
-<br>
----
-
 <br>
