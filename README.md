@@ -16,7 +16,7 @@
 
 <br>
 
-- Ph.D. student in Physics and data scientist.
+- Ph.D. student in physics and data scientist.
 - Currently learning skills to improve as a data scientist:
    - Python programming.
    - SQL
