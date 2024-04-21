@@ -72,9 +72,11 @@ Welcome to my gig! I offer a range of services to automate processes and increas
 
 I provide:
 
-- Data preparation: cleaning, merging, grouping, and handling missing data
-- Exploratory Data Analysis: Attribute Comparison, Graphs, and Feature Selection
-- Data segregation: splitting data for training and testing
+- Data extraction:  I use tools like Scrapy and BeautifulSoup for web data extraction.  ETL (learning)
+- Data preparation: cleaning, merging, grouping, and handling missing data.
+- Exploratory Data Analysis: Attribute Comparison, Graphs, and Feature Selection.
+- Data segregation: splitting data for training and testing.
+- SQL Database Management: Proficient in working with SQL databases for data manipulation and retrieval.
 - ML Models: Linear Regression, Logistic Regression, Decision Trees, SVM, Naive Bayes, kNN, K-Means, Random Forest.
 - Model Evaluation: RMSE, Accuracy, Confusion Matrix, Log Loss, AUC, F-Measure.
 - I work with tools like Numpy, Pandas, Matplotlib, Scikit-Learn, Scipy, PySPark, Seaborn. Proficient in Python.
