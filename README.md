@@ -123,7 +123,7 @@ Kind regards
 </li>
 
 <br>
-
+https://www.kaggle.com/victornuez
 <li>
 <a href="https://www.kaggle.com/victornuez" target="_blank">
 <img src="https://img.shields.io/badge/Kaggle-%2300599C.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
