@@ -102,7 +102,7 @@ Kind regards
 
 <li>
 <a href="https://www.linkedin.com/in/v%C3%ADctor-n%C3%BA%C3%B1ez-817176299" target="_blank">
-<img src="https://img.shields.io/badge/linkedin: Víctor Núñez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -119,6 +119,14 @@ Kind regards
 <li>
 <a href="mailto:victor.nunezr@sansano.usm.cl" target="_blank">
 <img src="https://img.shields.io/badge/Institutional mail: victor.nunezr@sansano.usm.cl-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://www.kaggle.com/victornuez" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-%2300599C.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
